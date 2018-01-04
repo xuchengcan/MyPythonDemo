@@ -1,0 +1,4 @@
+```python
+sqm='yuokhawxpoxlbfdh'
+```
+
